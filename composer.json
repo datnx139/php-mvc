@@ -1,0 +1,12 @@
+{
+  "autoload": {
+      "psr-4": {
+          "App\\": "app/",
+          "App\\Models\\": "app/models/",
+          "App\\Controllers\\": "app/controllers",
+          "App\\Routers\\": "app/routers",
+          "App\\Views\\": "app/views"
+
+      }
+  }
+}
